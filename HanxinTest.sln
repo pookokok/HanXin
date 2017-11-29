@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanxinTest", "HanxinTest\HanxinTest.csproj", "{F2C41545-0E5C-4E6A-B368-134F035DB70A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91960E3D-E91F-4A96-9856-A087FDF40F89} = {91960E3D-E91F-4A96-9856-A087FDF40F89}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hxlib", "hxlib", "{BAD02955-0EE5-4BBF-A776-603123FDB915}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCode.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCode.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCode.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCode.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCodeRecognition.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCodeRecognition.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCodeRecognition.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.BarCodeRecognition.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Diagram.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Diagram.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Diagram.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Diagram.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Email.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Email.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Email.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Email.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Imaging.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Imaging.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Imaging.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Imaging.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OCR.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OCR.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OCR.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OCR.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OMR.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OMR.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OMR.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.OMR.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Pdf.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Pdf.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Pdf.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Pdf.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Slides.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Slides.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Slides.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Slides.xml
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Tasks.dll = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Tasks.dll
+		..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Tasks.xml = ..\..\..\BaiduYunDownload\Aspose.Total_for_.NET_DLL_2014-02-16\net4.0\Aspose.Tasks.xml
+		HanxinTest\HanxinDll\DeCodeCS.dll = HanxinTest\HanxinDll\DeCodeCS.dll
+		HanxinTest\HanxinDll\EnCodeCS.dll = HanxinTest\HanxinDll\EnCodeCS.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{91960E3D-E91F-4A96-9856-A087FDF40F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C41545-0E5C-4E6A-B368-134F035DB70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C41545-0E5C-4E6A-B368-134F035DB70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C41545-0E5C-4E6A-B368-134F035DB70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C41545-0E5C-4E6A-B368-134F035DB70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91960E3D-E91F-4A96-9856-A087FDF40F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91960E3D-E91F-4A96-9856-A087FDF40F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91960E3D-E91F-4A96-9856-A087FDF40F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91960E3D-E91F-4A96-9856-A087FDF40F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
